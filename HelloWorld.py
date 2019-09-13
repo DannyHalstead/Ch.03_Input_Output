@@ -7,3 +7,6 @@ score+=1
 print("Your score is", score)
 print("I want to print a double quote \n But I won't right now")  #exit code
 
+firstname = input("What is your favorite type of fish? ")
+lastname = input("What is your last name? ")
+print("Nice to meet you,", firstname,lastname)
